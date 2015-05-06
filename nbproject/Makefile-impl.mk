@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Ese038-stdout-stderr
+PROJECTNAME=Ese038
 
 # Active Configuration
 DEFAULTCONF=Debug
